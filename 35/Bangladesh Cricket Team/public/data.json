@@ -1,0 +1,152 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 95,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "playerPrice": 90000,
+    "playerImg": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png"
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 98,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "playerPrice": 120000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6pM_8boEist5FGEZgzKj-5rslGq6nMmVepQ&s"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 96,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerPrice": 110000,
+    "playerImg": "https://media.gettyimages.com/id/2156775068/photo/new-york-new-york-babar-azam-of-pakistan-looks-on-during-the-warm-up-prior-to-the-icc-mens.jpg?s=612x612&w=0&k=20&c=Tq2_qBA-y3NmmBcLCaiZdvWOXuC76fyeBwW9YMdtvpo="
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "rating": 94,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerPrice": 100000,
+    "playerImg": "https://media.gettyimages.com/id/2169285592/photo/london-england-joe-root-of-england-celebrates-reaching-his-centuryduring-the-2nd-test-match.jpg?s=612x612&w=0&k=20&c=euVm9zmjtfMHy61PbFETmjM232NyZOEgbSq-Gh-0VI8="
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerPrice": 98000,
+    "playerImg": "https://www.gray-nicolls.co.uk/cdn/shop/articles/kane_williamson_blog_image.jpg?v=1707151253&width=1400"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "rating": 92,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "playerPrice": 105000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Me9yXJQb1Ml7cvoCLA-gdrOoYEuP1fdp1Ybu0bnTaG_9RCaUfx1HARaPj9SQO5bzWXTM2LC5JB0pVPRBCS6YQfJn17Dd3UdBXHlhmv-Q&s=10"
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "All-Rounder",
+    "rating": 90,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "playerPrice": 95000,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ0LIJOYIR8-C_bZkg-1H4Ipmwt3qOxuxUMkdlWsJQ5NdXB9f7fHQo-lx483Wp1wQcGPuecB_TaZpnaED3GuV0_md0XojJFQ2PqZ6-c6_Qo_yTQI-NR2UaNmfoSKuyZkbJj6BQtpzR2yb-7&s=19"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 97,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "playerPrice": 115000,
+    "playerImg": "https://c.ndtvimg.com/2024-09/9td8b67_rashid-khan-_625x300_21_September_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 91,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "playerPrice": 100000,
+    "playerImg": "https://e0.365dm.com/23/03/2048x1152/skysports-mitchell-starc-cricket_6094046.jpg?20230319132731"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 96,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "playerPrice": 110000,
+    "playerImg": "https://static.tnn.in/thumb/msid-111355304,thumbsize-43926,width-1280,height-720,resizemode-75/111355304.jpg"
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 89,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "playerPrice": 88000,
+    "playerImg": "https://tse2.mm.bing.net/th/id/OIP.-bMs0FJcmABzmsNlNIHzngHaFD?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "playerPrice": 102000,
+    "playerImg": "https://e0.365dm.com/22/06/2048x1152/skysports-getty-jos-buttler_5807916.jpg?20220617192300"
+  },
+  {
+    "playerName": "Quinton de Kock",
+    "playerCountry": "South Africa",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 90,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "None",
+    "playerPrice": 97000,
+    "playerImg": "https://resources.melbourne-renegades.pulselive.com/melbourne-renegades/photo/2023/12/09/a85bc566-c2f4-4bfb-8414-2a93e332085b/GettyImages-1757046740.jpg"
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "rating": 88,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "playerPrice": 92000,
+    "playerImg": "https://tse1.mm.bing.net/th/id/OIP.cEXRUkhWQzqGeO8S-3RYlQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "playerName": "Faf du Plessis",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "rating": 87,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "playerPrice": 85000,
+    "playerImg": "https://cdn1.wionews.com/prod/wion/images/2025/20251129/image-1764425831504.png?rect=(0,0,1200,900)&imwidth=800&imheight=600&format=webp&quality=medium"
+  }
+]
